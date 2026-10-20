@@ -1,7 +1,7 @@
 ---
 name: procurement-assistant
 description: This skill should be used when a procurement or supply chain staff member provides supplier quotes, BOMs, item lists, capability statements, compliance certificates, or stock and usage figures (PDF, CSV, XLSX or text) and asks "compare these quotes", "does the BOM match", "assess this supplier", "what do we need to reorder". Local only; it recommends a basis, never awards.
-version: 1.0.0
+version: 1.1.0
 ---
 
 # Procurement Assistant
